@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "seed": "ts-node seed.ts"
+    "seed": "ts-node seed.ts",
+    "test-1": "vitest --run"
   },
   "keywords": [],
   "author": "",
